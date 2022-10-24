@@ -30,15 +30,23 @@
 <ol>
    <li>Inner joins are performed on the Calendar, listings and Reviews tables;</li>
    <li>Visualizations are created to answer the potential client’s questions;</li>
-   <li>The “Price by Zipcode” bar chart in the dashboard is used as a filterBar charts showing numbers of confirmed cases, recoveries and deaths due to Covid-19 is created seperately.</li>
-   <li>Filters are applied to both the maps and the bar charts. This enabled selection of one or more countries to be displayed on the dashboard.</li>
-   <li>The numbers of confirmed cases, recoveries and deaths are displayed in tabular format.</li>
-   <li>A dashboard is created which brings all the aforementioned features together.</li>
+   <li>The “Price by Zipcode” bar chart in the dashboard is used as a filter.</li>
 </ol>
+
 <h3>Dashboard</h3>
 <p align="center">
    <img src="images/airbnb-dashboard.png" >
 </p>
 <span>Click <a href="https://public.tableau.com/views/DashboardProjectonCovid-19Dataset/Covid-19Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link">here</a> to view on Tableau Public.</span>
+
+<h3>Recommendations and Conclusion</h3>
+<ol>
+  <li>Zipcode 98146 has the highest average price for accommodations and as such should be considered as the best destination for best returns on investment.</li>
+  <li>Business is great for people with properties all round the clock of the year as seen on the “Revenue for Year” 2016 chart.</li>
+  <li>Accommodation with one room goes for the lowest price.</li>
+  <li>Cleaning costs is the lowest for accommodation with one bedroom.</li>
+  <li>Accommodation with one bedroom is best to start with on a low budget.</li>
+</ol>
+
 
 
