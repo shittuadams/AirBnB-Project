@@ -14,7 +14,7 @@
 </ol>
 
 <h3>Data Sources</h3> 
-<p>There are three tables:<p>
+<p>There are three tables in the dataset:<p>
 <ol>
   <li>Calendar;</li> 
   <li>Listings;</li>
