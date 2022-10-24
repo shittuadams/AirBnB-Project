@@ -37,7 +37,6 @@
 <p align="center">
    <img src="images/airbnb-dashboard.png" >
 </p>
-<span>Click <a href="https://public.tableau.com/views/DashboardProjectonCovid-19Dataset/Covid-19Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link">here</a> to view on Tableau Public.</span>
 
 <h3>Recommendations and Conclusion</h3>
 <ol>
